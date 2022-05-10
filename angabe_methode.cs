@@ -7,4 +7,4 @@ string gutscheincode = Console.ReadLine();
 
 // YOUR CODE HERE
 
-Console.WriteLine($"Dein neuer Preis beträgt: {rabattPreis}");
+Console.WriteLine($"Dein neuer Preis beträgt: {verkaufspreis}");
